@@ -1,0 +1,57 @@
+body {
+    margin-top: 0px;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: violet;
+}
+
+.derAndere {
+    width: 100%;
+    height: 20px;
+    background-color: violet;
+}
+.derGeile {
+    background-color: teal;
+    width: 100%;
+    height: 20px;
+    border-bottom-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+.derAndereGeile {
+    width: 100%;
+    height: 20px;
+    background-color: violet;
+}
+.derGeileAndere {
+    background-color: teal;
+    width: 100%;
+    height: 20px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+.bloecke {
+    float: left;
+    width: 20px;
+    height: 20px;
+    background-color: teal;
+    
+}
+.bloecke_rechts {
+    width: 20px;
+    height: 20px;
+    background-color: teal; 
+    float: right;
+
+}
+p {
+    margin: 0px;
+}
+button {
+    /*border-radius: 10px;*/
+    height: 20px;
+    width: 20px;
+    background-color: violet;
+    border: none;
+    margin-left: 100px;
+}
